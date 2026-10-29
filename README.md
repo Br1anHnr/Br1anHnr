@@ -6,7 +6,9 @@ Gosto de transformar ideias em aplicações e automações úteis. Por aqui, com
 
 Tenho trabalhado com aplicações web, integrações de APIs, n8n e assistentes de IA. Também participo da gestão de projetos, desde o escopo e o cronograma até as reuniões com clientes e a construção da solução.
 
-## Tecnologias que uso
+## Tecnologias que estou explorando
+
+Desenvolvo meus projetos com apoio de ferramentas de IA e aprendo essas tecnologias na prática. Meu nível de experiência varia entre elas, e sigo aprofundando minha compreensão do código e das decisões técnicas.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Chtml%2Ccss%2Cgit&amp;theme=dark" />
@@ -23,6 +25,12 @@ Também uso n8n para conectar ferramentas e automatizar processos.
 - **[Real Mercado](portfolio/real-mercado.md)** — participo da gestão e da construção de um e-commerce em equipe. Estamos preparando o projeto para produção.
 - **[SistemOS](https://github.com/Br1anHnr/SistemOS)** — estou construindo uma aplicação para organizar estudos e acompanhar a vida acadêmica. Já funciona localmente e sigo desenvolvendo.
 - **[MultiFarma Hub](https://github.com/Br1anHnr/Farmacia)** — participei de um protótipo de atendimento e vendas para farmácia. O projeto foi interrompido antes de entrar em operação.
+
+## Hackathons
+
+Participo do hackathon da Receita Federal com a minha equipe. Passamos por todas as fases e estamos aguardando o resultado final — situação em 29/10/2026.
+
+Mantenho o repositório do projeto privado e não compartilho as bases de dados da competição.
 
 ## Vamos conversar?
 

@@ -2,8 +2,6 @@
 
 Construo aplicações e automações para resolver problemas do dia a dia. Tenho experiência prática com n8n e integrações de APIs, incluindo uma solução de captação de leads que utilizei pessoalmente e na empresa júnior. Também atuo na gestão de projetos, definição de escopo, cronograma e relacionamento com clientes.
 
-Meu foco atual é desenvolver soluções como AI Builder: conectar interfaces, dados, automações e IA em ferramentas úteis, com demonstrações claras e resultados verificáveis.
-
 ## Projetos selecionados
 
 | Projeto | Problema e solução | Estado atual |

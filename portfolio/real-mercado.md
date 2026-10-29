@@ -1,40 +1,27 @@
 # Real Mercado — gestão de projeto e desenvolvimento web
 
-Projeto de e-commerce de mercado desenvolvido em equipe. Minha atuação combina gestão do projeto, contato com clientes e participação na construção do webapp.
+Participo da construção do Real Mercado, um e-commerce de mercado desenvolvido em equipe. Atuo tanto na gestão do projeto quanto na construção do webapp e nas reuniões com clientes.
 
-**Estágio:** em preparação para produção. Os resultados comerciais ainda não foram medidos. O código permanece privado no repositório de outro integrante da equipe.
+## A proposta
 
-## Problema e proposta
+Estamos construindo uma experiência de compra online para um mercado, reunindo a jornada de compra e a operação administrativa em uma aplicação web.
 
-Construir uma experiência de compra online para um mercado, reunindo a jornada do cliente e a operação administrativa em uma aplicação web.
+## Minha participação
 
-## Minha contribuição
+- Faço a gestão do projeto, incluindo escopo e cronograma.
+- Participo de reuniões com clientes ao longo do desenvolvimento.
+- Atuo na construção do webapp junto à equipe.
 
-| Frente | Atuação |
-| --- | --- |
-| Gestão do projeto | Gestão de escopo e cronograma, acompanhando a organização do trabalho. |
-| Relacionamento com clientes | Participação em reuniões com clientes ao longo do projeto. |
-| Desenvolvimento | Participação na construção do webapp junto à equipe. |
+Meu trabalho conecta o planejamento, o contato com o cliente e a execução. O produto é uma construção conjunta; aqui, descrevo as frentes em que participo.
 
-O projeto é colaborativo. Essa descrição não atribui a mim a autoria exclusiva do produto nem de todos os módulos. Exemplos específicos de entregas poderão ser acrescentados conforme o material puder ser compartilhado.
+## Estado atual
 
-## O que o projeto demonstra
+Estamos preparando o projeto para produção e ainda temos etapas de homologação pela frente. Ainda não medimos resultados de vendas, conversão ou economia operacional.
 
-- Atuação entre a necessidade do cliente, o planejamento e a construção da solução.
-- Participação em uma entrega de software em equipe.
-- Capacidade de organizar o escopo e acompanhar o cronograma do projeto.
+O repositório pertence a outro integrante da equipe e permanece privado. Por isso, reúno aqui uma apresentação da minha participação.
 
-## Resultados e estado atual
+## Próximos passos
 
-O trabalho está em preparação para produção e ainda depende de homologação. Não há resultados de vendas, conversão ou economia operacional apresentados neste caso. Esses indicadores poderão ser documentados após o lançamento, com período e método de medição.
-
-## Próximas evidências
-
-- Demonstração autorizada da jornada do usuário com dados fictícios.
-- Exemplo sanitizado de cronograma ou organização de escopo.
-- Descrição de uma decisão de projeto e da entrega correspondente.
-- Identificação das funcionalidades em que participei diretamente.
-
-Este estudo de caso apresenta minha participação sem divulgar código, dados de clientes, atas de reuniões ou documentos internos.
+Quero complementar este caso com uma demonstração autorizada usando dados fictícios, um exemplo de organização do cronograma e uma decisão de projeto da qual participei. Após o lançamento, pretendo acompanhar os resultados com período e critérios de medição definidos.
 
 [Voltar ao perfil](../README.md)

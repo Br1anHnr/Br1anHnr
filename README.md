@@ -1,27 +1,29 @@
-# Brian Henrique Sousa Bastos
+# Oi, eu sou o Brian 👋
 
-Construo aplicações e automações para resolver problemas do dia a dia. Tenho experiência prática com n8n e integrações de APIs, incluindo uma solução de captação de leads que utilizei pessoalmente e na empresa júnior. Também atuo na gestão de projetos, definição de escopo, cronograma e relacionamento com clientes.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=3382ED&width=520&height=55&lines=Apps%2C+automa%C3%A7%C3%B5es+e+novas+ideias.;Aprendendo+e+construindo+na+pr%C3%A1tica." alt="Apps, automações e novas ideias. Aprendendo e construindo na prática." />
 
-## Projetos selecionados
+Gosto de transformar ideias em aplicações e automações úteis. Por aqui, compartilho meus projetos, experimentos e o que venho aprendendo durante o desenvolvimento.
 
-| Projeto | Problema e solução | Estado atual |
-| --- | --- | --- |
-| [CaptaLeads](https://github.com/Br1anHnr/CaptaLeads) | Captação de leads com formulário web e automação em n8n, integrando Apify e Google Sheets. | Utilizado por mim e na empresa júnior; sem métricas históricas consolidadas. |
-| [LilHog](portfolio/lilhog.md) | Aplicativo de organização financeira pessoal para iOS com assistente de IA. | Em desenvolvimento; estudo de caso público e código privado. |
-| [Real Mercado](portfolio/real-mercado.md) | E-commerce desenvolvido em equipe. Atuo na gestão do projeto, reuniões com clientes e construção do webapp. | Em preparação para produção; estudo de caso público e código privado. |
-| [SistemOS](https://github.com/Br1anHnr/SistemOS) | Organização acadêmica e planejamento de estudos. | Funciona localmente e continua em desenvolvimento. |
-| [MultiFarma Hub](https://github.com/Br1anHnr/Farmacia) | Protótipo de atendimento e vendas, com integração ao Chatwoot e relatórios operacionais. | Interrompido antes da operação; sem resultados de negócio aferidos. |
+Tenho trabalhado com aplicações web, integrações de APIs, n8n e assistentes de IA. Também participo da gestão de projetos, desde o escopo e o cronograma até as reuniões com clientes e a construção da solução.
 
-## Experiência aplicada
+## Tecnologias que uso
 
-- **Automação:** construção do fluxo completo do CaptaLeads em n8n, com consulta ao Apify e gravação de leads no Google Sheets.
-- **Gestão e entrega:** definição de escopo e cronograma, reuniões com clientes e participação na construção do webapp do Real Mercado.
-- **Produtos com IA:** desenvolvimento do LilHog, unindo organização financeira e um assistente com revisão humana das propostas de movimentação.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS e Git" />
+</picture>
 
-## Como apresento meu trabalho
+Também uso n8n para conectar ferramentas e automatizar processos.
 
-Procuro documentar o problema, a implementação, as integrações, o estágio de desenvolvimento e as limitações. Diferencio automação de processos, uso de IA no desenvolvimento e funcionalidades que incorporam modelos de IA.
+## Alguns dos meus projetos
 
-## Contato
+- **[CaptaLeads](https://github.com/Br1anHnr/CaptaLeads)** — montei uma automação com n8n, Apify e Google Sheets para captar e organizar leads. Usei a solução pessoalmente e na empresa júnior.
+- **[LilHog](portfolio/lilhog.md)** — estou desenvolvendo meu aplicativo de organização financeira para iOS, com um assistente de IA.
+- **[Real Mercado](portfolio/real-mercado.md)** — participo da gestão e da construção de um e-commerce em equipe. Estamos preparando o projeto para produção.
+- **[SistemOS](https://github.com/Br1anHnr/SistemOS)** — estou construindo uma aplicação para organizar estudos e acompanhar a vida acadêmica. Já funciona localmente e sigo desenvolvendo.
+- **[MultiFarma Hub](https://github.com/Br1anHnr/Farmacia)** — participei de um protótipo de atendimento e vendas para farmácia. O projeto foi interrompido antes de entrar em operação.
+
+## Vamos conversar?
 
 [LinkedIn](https://www.linkedin.com/in/brian-henrique) · [E-mail](mailto:contatobh18@gmail.com)

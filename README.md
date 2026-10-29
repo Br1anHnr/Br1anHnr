@@ -26,12 +26,6 @@ Também uso n8n para conectar ferramentas e automatizar processos.
 - **[SistemOS](https://github.com/Br1anHnr/SistemOS)** — estou construindo uma aplicação para organizar estudos e acompanhar a vida acadêmica. Já funciona localmente e sigo desenvolvendo.
 - **[MultiFarma Hub](https://github.com/Br1anHnr/Farmacia)** — participei de um protótipo de atendimento e vendas para farmácia. O projeto foi interrompido antes de entrar em operação.
 
-## Hackathons
-
-Participo do hackathon da Receita Federal com a minha equipe. Passamos por todas as fases e estamos aguardando o resultado final — situação em 29/10/2026.
-
-Mantenho o repositório do projeto privado e não compartilho as bases de dados da competição.
-
 ## Vamos conversar?
 
 [LinkedIn](https://www.linkedin.com/in/brian-henrique) · [E-mail](mailto:contatobh18@gmail.com)

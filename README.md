@@ -9,9 +9,9 @@ Tenho trabalhado com aplicações web, integrações de APIs, n8n e assistentes 
 ## Tecnologias que uso
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,git&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS e Git" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Chtml%2Ccss%2Cgit&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Chtml%2Ccss%2Cgit&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Chtml%2Ccss%2Cgit&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS e Git" />
 </picture>
 
 Também uso n8n para conectar ferramentas e automatizar processos.
